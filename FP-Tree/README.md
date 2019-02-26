@@ -1,4 +1,4 @@
-###FP-Tree
+### FP-Tree
 频繁模式树算法(FrequentPattern Tree),避免了产生多个候选集.<br>
 而FP-Tree算法则是发现频繁模式而不产生候选集.
 Apriori在每次连接后都需要重新扫描数据,统计出现的频率,I/O消耗较大.
